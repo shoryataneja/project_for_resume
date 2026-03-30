@@ -187,3 +187,4 @@ Linear regression models the relationship between a dependent variable **y** and
 
 The model is fit by minimizing the **sum of squared residuals** (OLS).
         """)
+# page config added
