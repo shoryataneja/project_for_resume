@@ -190,3 +190,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # page config added
 # sidebar sliders added
 # numpy data generation
+# sklearn model fit
