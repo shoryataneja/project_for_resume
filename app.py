@@ -192,3 +192,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # numpy data generation
 # sklearn model fit
 # r2 and rmse metrics
+# columns layout
