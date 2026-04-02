@@ -198,3 +198,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # fitted and true lines
 # residual lines
 # equation toggle
+# latex equations
