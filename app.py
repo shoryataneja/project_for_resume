@@ -197,3 +197,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # plotly scatter
 # fitted and true lines
 # residual lines
+# equation toggle
