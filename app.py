@@ -201,3 +201,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # latex equations
 # custom point sidebar
 # custom point plot
+# custom point metrics
