@@ -202,3 +202,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # custom point sidebar
 # custom point plot
 # custom point metrics
+# plotly migration
