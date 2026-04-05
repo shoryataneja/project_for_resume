@@ -206,3 +206,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # click to add point
 # session state clicked
 # refit with clicked
+# clear button
