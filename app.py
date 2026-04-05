@@ -208,3 +208,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # refit with clicked
 # clear button
 # progress bar
+# remove emojis
