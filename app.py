@@ -213,3 +213,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # expander section
 # green star markers
 # success message
+# legend layout
