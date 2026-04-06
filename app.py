@@ -210,3 +210,4 @@ The model is fit by minimizing the **sum of squared residuals** (OLS).
 # progress bar
 # remove emojis
 # source column
+# expander section
