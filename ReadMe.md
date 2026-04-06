@@ -180,4 +180,4 @@
 |---|---|
 | `st.help()` | Displays the docstring for any Python object. |
 | `st.context` | Provides request-level context such as headers and cookies. |
-| `st.html()` | Renders an HTML string directly inline (without iframe). |
+| `st.html()` | Renders an HTML string directly inline (without iframe). |# readme update
